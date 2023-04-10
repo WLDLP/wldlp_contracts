@@ -2,9 +2,9 @@
 
 pragma solidity ^0.8.4;
 
-import "wldlp_contracts/token/ERC20/ERC20.sol";
-import "wldlp_contracts/access/AccessControl.sol";
-import "wldlp_contracts/token/ERC20/extensions/ERC20Burnable.sol";
+import "token/ERC20/ERC20.sol";
+import "access/AccessControl.sol";
+import "token/ERC20/extensions/ERC20Burnable.sol";
 
 
 /*
